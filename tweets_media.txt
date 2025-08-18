@@ -1,16 +1,8 @@
-text: test 안녕하세요 (isi text kamu)
-Link Movie: 🔗 https://google.com
+text: VIRALL beredar Video Syur, Lisa Mariana ....
+Link Movie: 🔗 http://ventures.mothernewyork.com/host-https-celebrity.okezone.com/read/2025/07/18/33/3156145/akui-dirinya-pemeran-wanita-dalam-video-syur-lisa-mariana-ngaku-dibuatnya-tak-sengaja
 
 
-media: (isi hanya url/link gambar, contoh: https://google.com/gambar1.jpg)
+media: http://ventures.mothernewyork.com/host-https-img.okezone.com/content/2025/07/18/33/3156145/lisa_mariana-bStm_large.JPG
 url: (boleh di kosongin)
-hashtags: #film #movie #lk21 #film21
----
-text: test 안녕하세요 (isi text kamu)
-Link Movie: 🔗 https://google.com
-
-
-media: (isi hanya url/link gambar, contoh: https://google.com/gambar1.jpg)
-url: (boleh di kosongin)
-hashtags: #film #movie #lk21 #film21
+hashtags: #viral #syur #selebritis
 ---
