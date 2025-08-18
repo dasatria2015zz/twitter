@@ -2,7 +2,7 @@
   "scrape_url": "https://www.trends24.in/indonesia",
   "jumlah_hashtag_tambahan": 4,
   "prompt_gemini": "Create a short, highly intriguing news story in the form of a tweet (maximum 150 characters) about the topic '{keyword}'. Don't provide a conclusion. Don't use hashtags in your answer.",
-  "traffic_link": "Read more: 👉👉 http://ventures.mothernewyork.com/host-https-www.cnnindonesia.com/hiburan/20250818095954-234-1263624/kim-jong-kook-umumkan-bakal-menikah-siapa-calon-istrinya",
+  "traffic_link": "Read more: 👉👉 http://ventures.mothernewyork.com/",
   "manual_hashtags": ["#trends", "#hotnews", "#news"],
   "gagal_scrape_gambar_tetap_posting": true
 }
